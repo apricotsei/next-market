@@ -19,3 +19,5 @@ export async function DELETE(request, context){
         return NextResponse.json({message: "アイテム削除失敗"})
     }
 }
+
+// test
